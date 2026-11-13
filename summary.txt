@@ -1,0 +1,5 @@
+- Adobe Acrobat now offers an AI‑powered summary generator that creates fast, accurate summaries of documents and extracts key insights from lengthy files.  
+- The tool is promoted as a time‑saving feature for users needing quick overviews of their PDFs.  
+- Times of AI, Bloomberg’s “The AI Race,” AI Weekly, and AI Understanding are dedicated sites that publish the latest AI news, trends, model releases, funding rounds, and policy updates.  
+- These platforms update multiple times per day, providing industry‑focused analysis without hype.  
+- The research provides no performance data, user feedback, or pricing details for Adobe’s AI summary feature.
